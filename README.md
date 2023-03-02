@@ -2,7 +2,7 @@
 
 ---
 
-## About Me
+## About me
 
 Senior Full Stack Cloud developer with a passion for architecture and data projects.
 
