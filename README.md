@@ -4,10 +4,28 @@
 
 ## About Me
 
-- Full stack developer
-- Createor of npm library [automation-hat](https://www.npmjs.com/package/automation-hat)
-- Creator of garage door opener project [Pi Garage](https://github.com/michaelgambold/pi-garage)
+Senior Full Stack Cloud developer with a passion for architecture and data projects.
 
+## Currently working on
+
+### Node Automation Hat
+
+Node Automation Hat is a npm package (found [here](https://www.npmjs.com/package/automation-hat)) which I reverse engineered from the
+Pimoroni [Automation Hat Python library](https://github.com/pimoroni/automation-hat). This was so I could use the Pimoroni
+[Automation Hat](https://shop.pimoroni.com/products/automation-hat) hardware in projects.
+
+This project is open source and can be found [here](https://www.npmjs.com/package/automation-hat).
+
+### Pi Garage
+
+Is a complete system to make a garage door into a smart garage door. This comprises of a mobile app (Android & iOS) and a
+docker backend service that can be ran on a Raspberry Pi with a Pimoroni Automation Hat.
+
+The project is open source and can be found [here](https://github.com/michaelgambold/pi-garage).
+
+## Socials
+
+- [Linked In](https://www.linkedin.com/in/michael-gambold-0a8951188/)
 <!--
 **michaelgambold/michaelgambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,15 +39,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+## Skills
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,nestjs,flutter,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,nestjs,flutter,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,dotnet,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,dotnet,java,py)](https://skillicons.dev)
 
 ### Database
 
